@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://academic-codex.github.io/SEP0527-Empreendedores-Em-Informatica">
-    <img src=".github/readme/hero.svg?v=2025-12-27T13:58:34.732309Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SSC0570-Empreendedores-Em-Informatica">
+    <img src=".github/readme/hero.svg?v=2025-12-28T01:51:08.479703Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
